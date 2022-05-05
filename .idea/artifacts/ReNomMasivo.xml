@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="ReNomMasivo">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReNomMasivo</output-path>
+    <properties id="jpackage-properties">
+      <options>
+        <option name="version" value="1" />
+        <option name="copyright" value="" />
+        <option name="description" value="" />
+        <option name="vendor" value="Mixdor" />
+        <option name="mainClass" value="sample.Main" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="ReNomMasivo.jar">
+        <element id="module-output" name="ReNomMasivo" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
