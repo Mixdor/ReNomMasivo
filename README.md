@@ -7,3 +7,5 @@ Este programa necesita que se le proporcione un archivo txt con los titulos de l
 
 Instalar:  
 Puedes encontrar un instalador ejecutable para windows en /out/artifacts
+
+![Captura de interfaz](https://i.imgur.com/gKnXDiX.jpg)
